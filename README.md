@@ -9,8 +9,8 @@
 3. Containerization (Docker-based deployment)
 
 ## Development Roadmap
-- [x] Project initialization & Architecture design
-- [/] Dockerization (Dockerfile created, testing environment consistency)
-- [/] Baseline evaluation scripts (Latency & Perplexity benchmarking)
-- [ ] QLoRA fine-tuning integration (In Progress)
-- [ ] Knowledge distillation for lightweight student models
+* [x] Project initialization & Architecture design
+* [/] Dockerization (Dockerfile created, testing environment consistency)
+* [/] Baseline evaluation scripts (Latency & Perplexity benchmarking)
+* [ ] QLoRA fine-tuning integration (In Progress)
+* [ ] Knowledge distillation for lightweight student models
